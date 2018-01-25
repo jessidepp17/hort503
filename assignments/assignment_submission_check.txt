@@ -1,0 +1,52 @@
+PS C:\Users\jessio\git\HORT503\assignments> ls
+    Directory: C:\Users\jessio\git\HORT503\assignments
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/25/2018  12:41 AM                A01
+d-----        1/25/2018  12:33 AM                A02
+d-----        1/25/2018  12:30 AM                A03
+
+PS C:\Users\jessio\git\HORT503\assignments> git init
+Initialized empty Git repository in C:/Users/jessio/git/HORT503/assignments/.git/
+PS C:\Users\jessio\git\HORT503\assignments> git add .
+warning: LF will be replaced by CRLF in A03/languages.txt.
+The file will have its original line endings in your working directory.
+PS C:\Users\jessio\git\HORT503\assignments> git commit -m "assignments"
+[master (root-commit) 0461ea4] assignments
+ 34 files changed, 876 insertions(+)
+ create mode 100644 A01/ORTIZ_JESSICA_Hort503-01-S2018-A01.docx
+ create mode 100644 A02/ex01.py
+ create mode 100644 A02/ex02.py
+ create mode 100644 A02/ex03.py
+ create mode 100644 A02/ex04.py
+ create mode 100644 A02/ex05.py
+ create mode 100644 A02/ex06.py
+ create mode 100644 A02/ex07.py
+ create mode 100644 A02/ex08.py
+ create mode 100644 A02/ex09.py
+ create mode 100644 A02/ex10.py
+ create mode 100644 A02/ex11.py
+ create mode 100644 A02/ex12.py
+ create mode 100644 A02/ex13.py
+ create mode 100644 A02/ex14.py
+ create mode 100644 A02/ex15.py
+ create mode 100644 A02/ex15_sample.txt
+ create mode 100644 A02/ex16.py
+ create mode 100644 A02/ex16_test.txt
+ create mode 100644 A02/ex17.py
+ create mode 100644 A03/ex18.py
+ create mode 100644 A03/ex19.py
+ create mode 100644 A03/ex20.py
+ create mode 100644 A03/ex20_test.txt
+ create mode 100644 A03/ex21.py
+ create mode 100644 A03/ex23.py
+ create mode 100644 A03/ex28.txt
+ create mode 100644 A03/ex29.py
+ create mode 100644 A03/ex30.py
+ create mode 100644 A03/ex31.py
+ create mode 100644 A03/ex32.py
+ create mode 100644 A03/ex33.py
+ create mode 100644 A03/ex34.txt
+ create mode 100644 A03/languages.txt
+PS C:\Users\jessio\git\HORT503\assignments>
